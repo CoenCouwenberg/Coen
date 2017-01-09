@@ -1,0 +1,69 @@
+*{
+	font-family: Comic Sans MS;
+	
+}
+
+body{
+	text-align: center;
+	border: solid;
+	border-color: #FF0000;
+	background-image: url("../images/achtergrond.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	}
+.menu li{display: block;
+	margin-right: 10px;
+	display: inline;
+	}
+	.menu a:link {
+		color: Red;
+	}
+	.menu a:visited{
+		color: #FF0000;
+	}
+	.menu a:hover{
+		color: #FF0000;
+		background-color: White;
+	
+	}
+	
+.menu {
+	text-transform: uppercase;
+	font-size: 30px;
+	border: solid;
+	border-color: #FF0000;
+	margin-top: 1px;
+}
+h1{
+	color: #FF0000;
+	text-transform: uppercase;
+	font-size: 50px;
+	border: solid;
+	border-color: #FF0000;
+	
+}
+.formulier
+{
+	float: left;
+	border: solid;
+	border-color: #FF0000;
+	width: 250px;
+	margin-top: 10px;
+	margin-left: 10px;
+	
+}
+.verder
+{
+	float: right;
+	margin-top: 700px;
+	margin-right: 10px;
+}
+.somgebied
+{
+	margin-left: 300px;
+	margin-right: 300px;
+	border: solid;
+	background-color: #FF0000;
+	color: White;
+	border-color: #FF0000;
+}
